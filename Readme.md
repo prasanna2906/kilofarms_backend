@@ -9,6 +9,7 @@ used the website www.test-cors.org to check if CORS works.
 http://127.0.0.1:8000/login/ -> Login Page.  
 http://127.0.0.1:8000/signup/ -> Sign Up Page.  
 
+http://127.0.0.1:8000/admin/ -> username = admin, password=admin.  
 
 # Module2:  
 http://127.0.0.1:8000/prod/listprods/ -> Lists all products in the database.  
